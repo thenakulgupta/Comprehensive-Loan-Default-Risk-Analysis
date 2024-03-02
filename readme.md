@@ -1,6 +1,6 @@
 # Comprehensive Loan Default Risk Analysis
 
-> This notebook is my journey through analyzing loan data to identify key factors contributing to loan default risk. My goal was to uncover actionable insights that could inform risk management strategies and improve lending decisions.
+This notebook is my journey through analyzing loan data to identify key factors contributing to loan default risk. My goal was to uncover actionable insights that could inform risk management strategies and improve lending decisions.
 
 ## Table of Contents
 
